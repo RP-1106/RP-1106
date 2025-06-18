@@ -5,7 +5,7 @@
 - <i>Previously:</i> B.Tech AI & Data Science at Shiv Nadar University Chennai <code><img height="20" src="https://th.bing.com/th/id/OIP.hiK7SPZigdEUyl4JecwEMAHaEK?r=0&rs=1&pid=ImgDetMain" alt="SNUC Logo"></code>
 - I am always on the lookout to learn more about ✨Generative AI, Large Language Models, RAG and AI Agents✨. 
 - My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
-- I am currently interested in learning more about Agentic AI, MCP Server, and the Cloud.❤✌
+- I am currently interested in learning more about Agentic AI and the Cloud.❤✌
 - Planning on tapping more into the 3D Graphics and AR/VR domain
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
