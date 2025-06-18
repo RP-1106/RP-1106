@@ -56,3 +56,6 @@
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65519637/230751693-a0d55ffc-71e1-48c3-b1d1-aebb0a749929.gif" />
+
