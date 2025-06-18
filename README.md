@@ -1,12 +1,12 @@
 ## Hello World 👋 It's Rhea!
 
-Hi, I'm Rhea Pandita🙌, an AI and Data Science Enthusiast. 
-I am always on the lookout to learn more about Generative AI, Large Language Models, RAG and AI Agents. 
-My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
-I am currently interested in learning more about Agentic AI, MCP Server, and the Cloud.❤✌
+- Hi, I'm Rhea Pandita🙌, an AI and Data Science Enthusiast. 
+- I am always on the lookout to learn more about Generative AI, Large Language Models, RAG and AI Agents. 
+- My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
+- I am currently interested in learning more about Agentic AI, MCP Server, and the Cloud.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
 
 **Talking about Personal Stuff:**
