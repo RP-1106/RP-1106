@@ -4,12 +4,12 @@
 - I am always on the lookout to learn more about ✨Generative AI, Large Language Models, RAG and AI Agents✨. 
 - My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
 - I am currently interested in learning more about Agentic AI, MCP Server, and the Cloud.❤✌
-
+- Planning on tapping more into the 3D Graphics and AR/VR domain
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
 
-### Talking about Personal Stuff ###
+### Talking about Personal Stuff 
 
 - 🌱 I’m currently learning Azure, AWS, Django and practising my DSA.
 - 💬 I am proficient in Python and practising my C and C++ skills✌
@@ -17,7 +17,7 @@
 - 📒 Love using <code><img height="20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
 - ✨ I can draw too!! ➡️ <code><a href="https://www.instagram.com/st.art.gazer/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" alt="Instagram"></a></code>
 
-### Languages ###
+### Languages 
 
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
@@ -26,7 +26,7 @@
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
-### Libraries and Frameworks:###
+### Libraries and Frameworks 
 
 <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
@@ -45,11 +45,11 @@
 <code><img height="20" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"></code>
 
-### Database ###
+### Database 
 
 <code><img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
-### OS ###
+### OS
 <code><img height="20" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
