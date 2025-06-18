@@ -1,7 +1,7 @@
 ## Hello World 👋 It's Rhea!
 
 - Hi, I'm Rhea Pandita🙌, an AI and Data Science Enthusiast.
-- <i>Currently:</i> MS CS Student at University of Southern California <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/USC_Trojans_logo.svg/1200px-USC_Trojans_logo.svg.png" alt="USC Logo"></code>
+- <i>Currently:</i> MS CS Student at University of Southern California <code><img height="20" src="https://th.bing.com/th/id/OIP.gXQi5dehD2bl7mnlvMhJpAHaHn?r=0&rs=1&pid=ImgDetMain" alt="USC Logo"></code>
 - <i>Previously:</i> B.Tech AI & Data Science at Shiv Nadar University Chennai <code><img height="20" src="https://www.snuchennai.edu.in/" alt="SNUC Logo"></code>
 - I am always on the lookout to learn more about ✨Generative AI, Large Language Models, RAG and AI Agents✨. 
 - My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
