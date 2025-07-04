@@ -1,10 +1,8 @@
 ## Hello World 👋 It's Rhea!
 
 - Hi, I'm Rhea Pandita🙌, an AI and Data Science Enthusiast.
-<!-- - <b>Currently:</b> MS CS Student at University of Southern California <code><img height="0.5" src="https://wallpaperaccess.com/full/2653008.jpg" alt="USC Logo"></code> -->
 - <b>Currently:</b> MS CS Student at University of Southern California
 - <b>Previously:</b> B.Tech AI & Data Science at Shiv Nadar University Chennai
-# - <code><img height="0.5" src="https://th.bing.com/th/id/OIP.hiK7SPZigdEUyl4JecwEMAHaEK?r=0&rs=1&pid=ImgDetMain" alt="SNUC Logo"></code>
 - I am always on the lookout to learn more about ✨Generative AI, Large Language Models, RAG and AI Agents✨. 
 - My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
 - I am currently interested in learning more about Agentic AI and the Cloud.❤✌
@@ -18,8 +16,8 @@
 - 🌱 I’m currently focusing on practising my DSA.
 - 💬 I am proficient in Python and practising my C and C++ skills✌
 - 📲 You can connect with me on <code><a href="https://www.linkedin.com/in/rhea-pandita/" target="_blank"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram"></a></code>
-- 📒 Love using <code><img height="20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
-- ✨ I can draw too!! ➡️ <code><a href="https://www.instagram.com/st.art.gazer/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" alt="Instagram"></a></code>
+- 📒 Love using <code><img height="2" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
+- ✨ I can draw too!! ➡️ <code><a href="https://www.instagram.com/st.art.gazer/" target="_blank"><img height="2" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" alt="Instagram"></a></code>
 
 ### Languages 
 
