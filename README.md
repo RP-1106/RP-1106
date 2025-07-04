@@ -15,9 +15,10 @@
 
 - 🌱 I’m currently focusing on practising my DSA.
 - 💬 I am proficient in Python and practising my C and C++ skills✌
-- 📲 You can connect with me on <a href="https://www.linkedin.com/in/rhea-pandita/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" style="height:20px; width:20px; display:inline;"/></a>
-- 📒 Love using <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="height:20px; width:auto; display:inline;"/>
-- ✨ I can draw too!! ➡️ <a href="https://www.instagram.com/st.art.gazer/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" alt="Instagram" style="height:20px; width:20px; display:inline;"/></a>
+- 📲 You can connect with me on <code><a href="https://www.linkedin.com/in/rhea-pandita/" target="_blank"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+- 📒 Love using <code><img height="20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
+- ✨ I can draw too!! ➡️ <code><a href="https://www.instagram.com/st.art.gazer/" target="_blank"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>
+
 
 
 ### Languages 
