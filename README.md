@@ -1,7 +1,7 @@
 ## Hello World 👋 It's Rhea!
 
 - Hi, I'm Rhea Pandita🙌, an AI and Data Science Enthusiast.
-# - <b>Currently:</b> MS CS Student at University of Southern California <code><img height="0.5" src="https://wallpaperaccess.com/full/2653008.jpg" alt="USC Logo"></code>
+<!-- - <b>Currently:</b> MS CS Student at University of Southern California <code><img height="0.5" src="https://wallpaperaccess.com/full/2653008.jpg" alt="USC Logo"></code> -->
 - <b>Currently:</b> MS CS Student at University of Southern California
 - <b>Previously:</b> B.Tech AI & Data Science at Shiv Nadar University Chennai
 # - <code><img height="0.5" src="https://th.bing.com/th/id/OIP.hiK7SPZigdEUyl4JecwEMAHaEK?r=0&rs=1&pid=ImgDetMain" alt="SNUC Logo"></code>
