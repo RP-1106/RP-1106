@@ -15,8 +15,8 @@
 
 - 🌱 I’m currently focusing on practising my DSA.
 - 💬 I am proficient in Python and practising my C and C++ skills✌
-- 📲 You can connect with me on <code><a href="https://www.linkedin.com/in/rhea-pandita/" target="_blank"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram"></a></code>
-- 📒 Love using <code><img height="2" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
+- 📲 You can connect with me on <code><a href="https://www.linkedin.com/in/rhea-pandita/" target="_blank"><img height="2" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Instagram"></a></code>
+- 📒 Love using <code><img height="20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
 - ✨ I can draw too!! ➡️ <code><a href="https://www.instagram.com/st.art.gazer/" target="_blank"><img height="2" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" alt="Instagram"></a></code>
 
 ### Languages 
