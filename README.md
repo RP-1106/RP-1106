@@ -1,8 +1,7 @@
 ## Hello World 👋 It's Rhea!
 
 - Hi, I'm Rhea Pandita🙌, an AI and Data Science Enthusiast.
-- <b>Currently:</b> MS CS Student at University of Southern California
-- <b>Previously:</b> B.Tech AI & Data Science at Shiv Nadar University Chennai
+- MS CS Student at University of Southern California
 - I am always on the lookout to learn more about ✨Generative AI, Large Language Models, RAG and AI Agents✨. 
 - My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
 - I am currently interested in learning more about Agentic AI and the Cloud.❤✌
