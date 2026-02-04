@@ -4,8 +4,8 @@
 - MS CS Student at University of Southern California
 - Find my website at <a href="https://rp-1106.github.io" target="_blank">rp-1106.github.io</a>
 - My favourite subjects include Exploratory Data Analysis and Data Visualisation 📊, Machine Learning Techniques 💾 and Natural Language Processing 📈. 
-- I am currently interested in learning more about Agentic AI and the Cloud.❤✌
-- Planning on tapping more into the 3D Graphics and AR/VR domain
+- I am currently interested in learning more about Agentic AI.❤✌
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
